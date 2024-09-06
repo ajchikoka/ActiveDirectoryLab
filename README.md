@@ -15,8 +15,9 @@ their personal credentials.
 
 <h2>Programs and Utilities</h2>
 
-- <b>PowerShell</b> 
+- <b>Active Directory</b> 
 - <b>Oracle VirtualBox</b>
+- <b>PowerShell</b>
 
 <h2>Environments Used </h2>
 
