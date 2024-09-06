@@ -25,18 +25,18 @@ their personal credentials.
 
 <h2>Lab Walk Through:</h2>
 
-<p align="center">
+
 Create a Virtual Machine for Server 2019 in Oracle VM: <br/>
 <img src="https://imgur.com/SNT8uoR.png" height="80%" width="80%" alt="Server Creation"/>
 <br /> <br />
  
-<p align="center">
+
 Alter the Network settings: <br/>
 <img src="https://imgur.com/ny8vmVA.png" height="80%" width="80%" alt="Network Adapter Setting 1"/>
 <br /> <br />
 
 
-<p align="center">
+
 Add an Internal Network adapter: <br/> 
 <img src="https://imgur.com/hn4MdF9.png" height="80%" width="80%" alt="Network Adapter Setting 2"/> 
 <br /> <br />
@@ -44,13 +44,13 @@ Add an Internal Network adapter: <br/>
 
 
 
-<p align="center">
+
 Start the VM and install Server 2019: <br/> 
 <img src="https://imgur.com/WR7ekCT.png" height="80%" width="80%" alt="VM Server installation"/>
  
 <br /> <br />
 
-<p align="center">
+
 Create the password for the administrator account: <br/> 
 <img src="https://imgur.com/aKtksPA.png" height="80%" width="80%" alt="Admin account creation"/>
 <br /> <br />
