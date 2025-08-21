@@ -115,7 +115,7 @@ Under your domain, create a new organizational group for administrators and crea
 <br /> <br />
 <br/> <br />
 
-Once the account is created edit it’s properties to give it administrative status. 
+Once the account is created, edit it’s properties to give it administrative status. 
 To it’s member of property, add Domain Admins as a group, apply the settings and this step will be complete: <br/> <br />
 <img src="https://imgur.com/jzbkHj0.png" height="80%" width="80%" alt="Edit Member Of"/>
 <br /> <br />
